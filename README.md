@@ -17,7 +17,7 @@ Para instalar la aplicación, siga estos pasos:
 - Ejecutar php artisan server para iniciar aplicación web
 - Ejecutar npm run dev para iniciar el acceso al login
 
-##Contribución
+## Contribución
 Si deseas contribuir a esta aplicación, por favor sigue estos pasos:
 - Haz un fork de este repositorio.
 - Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
@@ -25,5 +25,5 @@ Si deseas contribuir a esta aplicación, por favor sigue estos pasos:
 - Envía tus cambios al repositorio remoto (git push origin feature/nueva-funcionalidad).
 - Crea un pull request para que tus cambios sean revisados e integrados al repositorio principal.
 
-##Licencia
+## Licencia
 Esta aplicación está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
